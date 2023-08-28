@@ -10,4 +10,5 @@ Projeto javascript minha loja 1,0 muito produto ou mais produto famosa mais cois
   
 ## ✒️ Autores
 * o dono do canal programador espartano
-* mosta com faz um use projeto javascript para minha loja 1.0 
+* mosta com faz um use projeto javascript para minha loja 1.0 explica com faz visual studio code  mais coisa com use js,css,html
+depois faz use como moda cor mais faz um table o cotono com cor e pouco fino e faz button para cotrola para coluca abaixo na table mais outro coisa video ta faz todo    
