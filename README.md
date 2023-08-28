@@ -9,5 +9,5 @@ Projeto javascript minha loja 1,0 muito produto ou mais produto famosa mais cois
 * JavaScript
   
 ## ✒️ Autores
-* o dono do canal programadorespartano
+* o dono do canal programador espartano
 * mosta com faz um use projeto javascript para minha loja 1.0 
