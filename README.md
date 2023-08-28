@@ -7,3 +7,7 @@ Projeto javascript minha loja 1,0 muito produto ou mais produto famosa mais cois
 * HTML5
 * CSS3
 * JavaScript
+  
+## ✒️ Autores
+* o dono do canal programadorespartano
+* mosta com faz um use projeto javascript para minha loja 1.0 
